@@ -1,0 +1,1 @@
+export {default as RenewalBlock} from './renewal-polis'
